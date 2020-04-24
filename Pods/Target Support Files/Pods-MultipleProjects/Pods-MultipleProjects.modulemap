@@ -1,0 +1,6 @@
+framework module Pods_MultipleProjects {
+  umbrella header "Pods-MultipleProjects-umbrella.h"
+
+  export *
+  module * { export * }
+}
